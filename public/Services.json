@@ -1,0 +1,44 @@
+[
+  {
+    "_id": 1,
+    "name": "washing",
+    "shift": ["Morning", "Evening", "Night", "Whole Day"],
+    "Price": "$50",
+    "image": "https://i.ibb.co/RS6sYnt/washing.jpg"
+  },
+  {
+    "_id": 2,
+    "name": "Floor Cleaning",
+    "shift": ["Morning", "Evening", "Night", "Whole Day"],
+    "Price": "$70",
+    "image": "https://i.ibb.co/BtLwVB3/floor-Cleaning.jpg"
+  },
+  {
+    "_id": 3,
+    "name": "Medication monitoring",
+    "shift": ["Morning", "Evening", "Night", "Whole Day"],
+    "Price": "$60",
+    "image": "https://i.ibb.co/mDZVtkH/medicine-Monitoring.jpg"
+  },
+  {
+    "_id": 4,
+    "name": "Cooking meals",
+    "shift": ["Morning", "Evening", "Night", "Whole Day"],
+    "Price": "$55",
+    "image": "https://i.ibb.co/gJXRztx/meal-Cooking.jpg"
+  },
+  {
+    "_id": 5,
+    "name": "Shopping",
+    "shift": ["Morning", "Evening", "Night", "Whole Day"],
+    "Price": "$65",
+    "image": "https://i.ibb.co/1G7XBgX/Shopping.jpg"
+  },
+  {
+    "_id": 6,
+    "name": "Bill payment",
+    "shift": ["Morning", "Evening", "Night", "Whole Day"],
+    "Price": "$40",
+    "image": "https://i.ibb.co/0yJ1Q6D/bill-Payment.jpg"
+  }
+]
